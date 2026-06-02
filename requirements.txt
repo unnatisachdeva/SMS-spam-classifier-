@@ -1,0 +1,6 @@
+which Python libraries the project needs.
+streamlit
+scikit-learn
+nltk
+pandas
+numpy
